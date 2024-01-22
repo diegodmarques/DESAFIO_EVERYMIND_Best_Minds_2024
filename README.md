@@ -1,2 +1,2 @@
 # DESAFIO_EVERYMIND_Best_Minds_2024
-Desafio EVERYMIND Bests Minds 2024
+Desafio EVERYMIND Best Minds 2024
